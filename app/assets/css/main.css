@@ -34,3 +34,23 @@
     background: #fff;
     color: #01579b;
 }
+
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+
+h2{
+    font-family: 'Poppins: 700', sans-serif;
+}
+
+h3{
+    font-family: 'Poppins: 400', sans-serif;
+}
+
+h4{
+    font-family: 'Poppins: 300', sans-serif;
+}
+
+p{
+    font-family: 'Bellefair', serif;
+}
